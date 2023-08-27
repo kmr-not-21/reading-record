@@ -6,7 +6,7 @@ root
     |-title  
         |-YYYY_MM_dd  
         |-YYYY_MM_dd  
-    |-title  
+            |-title  
         |-YYYY_MM_dd  
   
 コミットログにページ番号を含める  

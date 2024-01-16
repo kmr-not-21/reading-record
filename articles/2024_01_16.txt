@@ -1,0 +1,12 @@
+https://ledsun.hatenablog.com/entry/2023/02/23/175406
+https://zenn.dev/miya_tech/articles/2289a177cdf2ff
+
+##Tell, Don't Ask
+- オブジェクトに対してはAsk(求める事)はせずに、Tell(命令)だけするべきという原則
+    - Tell = オブジェクトに対してロジックの結果を聞く
+    - Ask = オブジェクトに対してあれこれ聞いて手元でロジックを組み立てること
+- ≒デメテルの法則
+    - Only talk to your friends
+- 依存関係が乗算で爆発するのを防ぐことができ、プログラムは変更容易になる
+- コードの重複を防ぐことができる
+- テスタビリティの向上
